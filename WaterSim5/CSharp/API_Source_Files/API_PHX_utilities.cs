@@ -2,6 +2,7 @@
 
 //       This is the C# Utilities file for the C# interface to the WaterSim_DCDC FORTRAN dll.
 
+//       Copyright (C) 2011 , The Arizona Board of Regents
 //              on behalf of Arizona State University
 
 //       All rights reserved.

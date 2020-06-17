@@ -1,0 +1,23 @@
+<ROOT>
+  <ID>SQLSERVERDIALOG</ID>
+  <SQLSERVERS>
+    <SQLSERVER>Access - SQLServer.stAccess</SQLSERVER>
+    <SQLSERVER>MySQL - SQLServer.stMySQL</SQLSERVER>
+    <SQLSERVER>PostGreSQL - SQLServer.stPostGreSQL</SQLSERVER>
+    <SQLSERVER>Text - SQLServer.stText</SQLSERVER>
+  </SQLSERVERS>
+  <DATABASES>
+    <DATABASE>G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\TestVer2\TEstAccess.accdb</DATABASE>
+    <DATABASE>G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\TestVer2\TEstAccess.mdb</DATABASE>
+    <DATABASE>G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\TestVer2</DATABASE>
+    <DATABASE>C:\WaterSim\CSharp\API_11_0\UniDb2\TestVer2\TEstAccess.accdb</DATABASE>
+    <DATABASE>C:\WaterSim\CSharp\API_11_0\UniDb2\TestVer2\TEstAccess.mdb</DATABASE>
+    <DATABASE>C:\WaterSim\CSharp\API_11_0\DemandModel\Data</DATABASE>
+  </DATABASES>
+  <SERVERLOCATIONS />
+  <PORTS />
+  <USERIDS />
+  <PASSWORDS />
+  <OPTIONS />
+  <LASTDIRECTORY>C:\WaterSim\CSharp\API_11_0\DemandModel\Data</LASTDIRECTORY>
+</ROOT>

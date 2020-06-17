@@ -1,0 +1,158 @@
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+I:\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+G:\DCDC\Visual Studio Projects\Db Stuff\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_10_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+I:\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+G:\DCDC\WaterSim_DCDC_50\VS Projects\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+I:\Temp\WaterSim API 11 West Setup\WaterSim_API_11_0\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+C:\WaterSim\CSharp\API_11_0\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csprojResolveAssemblyReference.cache
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.Cache
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+C:\WaterSim\CSharp\API_11_1\API_Projects\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\UniDb2.pdb
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\Mono.Security.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\MySql.Data.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.resources.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.pdb
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\Npgsql.xml
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\bin\Debug\policy.2.0.Npgsql.config
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.SqlServerDialog.resources
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDB.Dialogs.TablenameDialog.resources
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.GenerateResource.cache
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.CoreCompileInputs.cache
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.csproj.CopyComplete
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.dll
+E:\WaterSim\WaterSim5\CSharp\UniDb2\Projects\UniDb2\obj\Debug\UniDb2.pdb
