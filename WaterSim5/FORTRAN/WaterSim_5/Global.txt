@@ -1,2 +1,0 @@
-       real(4) ::		gvf_alpha_gpcd(35),gvf_align1(35),gvf_align2(35),gvf_align3(35)
-        common			gvf_alpha_gpcd,gvf_align1,gvf_align2,gvf_align3
